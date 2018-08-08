@@ -1,0 +1,93 @@
+# Main Stuff
+title: Consulting
+url: consulting.streamdata.io
+
+# Syndications
+header: This is our project area for managing our consulting services here at Streamdata.io. While we wish that all of our customers had robust, active, and consistent APIs for us to stream, and turn into event-driven subscriptions, many are needing assistance when it comes to getting their API strategy organized. To help push forward the API conversation at the companies we are talking to we engage in regular consulting relationships, and provide workshops that help deliver knowledge around the API life cycle, and how API governance can play a role. Here are the 25 stops along a modern API lifecycle we can help your organization think more critically about.
+
+footer: We reguarly engage with our clients in consulting engagements, which usually end up being in a one or multiple day workshop setting, helping introduce IT, development, and business teams to the concepts involved with delivering web APIs consistently. Helping establish a structured approach to planning, executing, and evolving how APIs are delivered across an organization, providing a scaffolding for teams to operate within. All of our workshops leave participants with a working framework they can take back to their operations and begin putting to use on the ground within their teams--getting to work improving and refining the API deliver life cycle immediately.
+
+stops:
+- title: Definitions
+  description: Helping organize the definitions used across the API life cycle, beginning with basic descriptions of services, common schema for resources, while developing OpenAPI contracts that help define the business value an API will deliver, complete with machine-readable tests that can be executed regularly to ensure each API is meeting its service level agreement (SLA).
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-definitions.png
+- title: Design
+  description: Understanding what the basics of RESTful API design are, while also considering hypermedia, GraphQL, microservices, and other emerging patterns that help us establish a robust, and diverse API design toolbox that allows us to deliver a wide range of services for different use cases.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-design-fiction.png
+- title: Versioning
+  description: Talking through the different ways in which API providers are versioning their API definitions, interfaces, and the SDKs, connectors, and other artifacts that are essential to the API life cycle. Keeping our APIs moving forward in a shared and organized way, so that all stakeholders are kept in sync with all forward motion.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-version.png
+- title: Virtualization
+  description: Understanding the common approaches to virtualization, mocking, and synthesizing API resources, providing a sandbox, laboratory, and test versions of APIs, and the data they serve up. Delivering robust, production-like versions of API resources that can be used to develop, test, and hard API solutions, before they ever enter into a production environment.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png
+- title: Deployment
+  description: Exploring the many ways in which APIs can be deployed from the handcrafted artisan variety using frameworks, to gateways, proxies, SaaS solutions, containers, serverless, and much more. There is no single way to deploy an API, but teams can learn to work together to deploy an API using a shared OpenAPI contract, providing consistent interfaces for use across applications. API Life Cycle Workshop
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-deployment.png
+- title: Orchestration
+  description: Understanding how development groups are orchestration the API life cycle, establishing reproduce-able pipelines, that employ regular builds, pre and post-commit strategies, and other ways to orchestrate the delivery, as well as the integration of APIs across internal groups, with trusted partners, and 3rd party API services.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-orchestration.png
+- title: Authentication
+  description: Understanding what a common authentication model looks like across all API infrastructure. Understanding Basic Auth, API Keys, JWT, OAuth, and other common approaches to securing our APIs, maintaining proper identity and access management, while still encouraging the ease of use and integration of all digital assets by whoever is entitled to access.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png
+- title: Management
+  description: Properly serving up, authenticating against, and defining what API access looks like. Having a common API management strategy across all APIs that are made available, no matter whether they are for internal, partner, or public use. Developing an awareness of who is accessing API resources, exactly what they are accessing, and understanding what they are doing with it while measuring and quantifying the value being extracted or generated along the way.
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
+- title: Logging
+  description: Establishing a comprehensive approach to shipping logs across the entire API stack, then making all logs a first-class citizen within the API stack. Exposing database, web server, DNS, and other layers as secure APIs that can be used to manage, audit, and secure API access at all levels.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-logging.png
+- title: Plans
+  description: Defining the different plans of access that will be available, requiring that ALL APIs exist within a plan, even if it is just for internal or trusted partner access. Applying limits to all API consumption, while understanding the costs associated with the delivery and integration of all digital assets across the organization.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-plan.png
+- title: Portals
+  description: Providing common portals, available at simple known locations. Providing one, or potentially multiple locations where APIs can be published, and in turn, discovered and consumed. Establishing a common approach to delivering APIs across internal, partner, and public stakeholders through known locations.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal.jpg
+- title: Documentation
+  description: Ensuring there is always up to date, accurate, and complete documentation for all APIs. Leveraging the OpenAPI definition to continually build and deliver interactive documentation that can be made available via common developer portals.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-documentation.png
+- title: Clients
+  description: Delivering explorers, and client tooling that augments API documentation, but allows for on-boarding learning, and integration with an API to be portable, and localized, enabling developers and other consumers to make calls from their desktop and browser.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-client.png
+- title: SDKs
+  description: Understanding what is possible when it comes to providing code samples, SDKs, plugins, connectors, and other starter code for developers to use when integrating with an API. Making it as easy as possible for developers to get up and running with their application built on top of your API(s).
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png
+- title: Support
+  description: Ensuring that all APIs are properly supported, providing multiple channels for internal, partner, and the public to consider when getting assistance during their onboarding and integration journey. Using email, phone, ticketing systems, repositories, social media, and other methods for keeping developers supported throughout this ongoing relationship.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-support.png
+- title: Communications
+  description: Making sure there is regular communication occurring around all APIs, providing the required feedback loop that begins with outwardly focused storytelling, but also involves support, and gathering feedback from stakeholders, consumers, and the wider public.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-chat.png
+- title: Road Map
+  description: Gathering internal, partner, and public feedback and establishing an ever-evolving roadmap, communicating what changes are coming for each API. Providing API specific details on how the API will be changing, and what version releases are being planned in the foreseeable future. Including an active list of known issues, as well as the change log for what has already been done, showing the entire history for each API.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-roadmap.png
+- title: Evangelism
+  description: Understanding how APIs need to be evangelized between development teams, with business and leadership groups. Making internal, partner, and public consumers aware of valuable API resources, as well as the process involved with the delivery, operation, and support of APIs.
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+- title: Monitoring
+  description: Defining what the monitoring of APIs looks like, ensuring APIs are available when and where they are supposed, and meeting required SLAs.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-heart-monitor.png
+- title: Testing
+  description: Going beyond just monitoring, and defining a common approach to testing APIs, ensuring each API is doing exactly what it should, and nothing more.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-testing.png
+- title: Performance
+  description: Understanding the performance limitations of each API, defining how fast it can deliver across a variety of geographic regions, and platforms.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-performance.png
+- title: Security
+  description: Defining security beyond authentication, logging, and monitoring, testing, and performance. Making sure encryption is default across all APIs, in transport and storage, and all APIs are known and scanned on a regular basis for any vulnerabilities.API Life Cycle Workshops
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-padlock.png
+- title: Discovery
+  description: Ensuring all definitions are discoverable through a single document placed in a known location, providing a machine readable index of API operations, as well as the details of authentication, and all APIs using OpenAPI, JSON Schema, Postman Collections, and other common API discovery formats.
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-discovery.png
+- title: Even-Driven
+  description: Moving the discussion beyond just a request and response approach to delivering API resources, and employing webhooks, real-time streaming APIs, publish and subscribe models, and other approaches to delivering digital assets where they are needed, when meaningful events happen. Allowing API consumers to tune into, sync with, and subscribe to exactly the events they want, and receive only the data, content, and media that matters in the moment.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-event-driven-steering.png
+- title: Governance
+  description: Quantifying, measuring, and reporting upon every stop along the API life cycle, developing an understanding of how APIs are being delivered, establishing benchmarks for what is desirable or undesirable outcomes, and having an awareness of where ALL APIs fit into the overall governance landscape.
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-governance.png
+
+# Other Settings
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+github_user: streamdata-projects
+github_repo: syndications
+github_branch: master
