@@ -10,7 +10,7 @@ footer: We reguarly engage with our clients in consulting engagements, which usu
 stops:
 - title: Definitions
   description: Helping organize the definitions used across the API life cycle, beginning with basic descriptions of services, common schema for resources, while developing OpenAPI contracts that help define the business value an API will deliver, complete with machine-readable tests that can be executed regularly to ensure each API is meeting its service level agreement (SLA).
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-definitions.png
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-definition.png
 - title: Design
   description: Understanding what the basics of RESTful API design are, while also considering hypermedia, GraphQL, microservices, and other emerging patterns that help us establish a robust, and diverse API design toolbox that allows us to deliver a wide range of services for different use cases.
   image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-design-fiction.png
